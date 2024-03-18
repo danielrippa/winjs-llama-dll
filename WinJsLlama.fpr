@@ -1,0 +1,8 @@
+library WinJsLlama;
+
+uses
+  ChakraLlama;
+
+exports GetJsValue;
+
+end.
